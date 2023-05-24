@@ -9,7 +9,7 @@ This is a typical structure of Neural Network. The model basically has 3 layers,
 Activation function is an essential part of Neural Network. Without the activation funcition, the output of Neural Network is just a combination of multiple linear expressions, which won't be able to express the complex pattern from data. However, the use of activation function enables the model to experss non-linear relations. The typical activation functions are ReLU, Tanh, sigmoid etc. The different activation has different effect on the performance of Neural Network. It is good to try different methods and compare the performance for each of them.
 <img src="/images/nn1.png" width="270" height="150">
 ## Loss Function
-Loss Fucntion is used to measure the difference between the output of the model and the expected result, to reflect how good the model is performing. Accoding to the course, MSE is the loss funcition that is commonly used. 
+Loss Fucntion is used to measure the difference between the output of the model and the expected result, to reflect how good the model is performing. Accoding to the course, MSE(Mean Squared Error) is the loss funcition that is commonly used. 
 <img src="/images/nn2.png" width="250" height="25">
 
 
