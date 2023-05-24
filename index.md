@@ -1,5 +1,5 @@
 Hello, welcome to my Blog for ELEC4630. I'm Taolue Shen, a 4th year student doing Electrical Engineering at UQ. I'm a passionate student dedicated to studying diverse areas in Engineering.
-<br><br>
+<br>
 This is my linkedin page: [link to linkedin](https://www.linkedin.com/in/taolue-shen-77336824b/)<br>
 And my staff page at UQ [link to Staff page](https://itee.uq.edu.au/profile/8751/taolue-shen)<br>
 <br>
