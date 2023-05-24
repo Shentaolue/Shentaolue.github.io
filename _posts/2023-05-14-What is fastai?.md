@@ -26,5 +26,5 @@ After training the model, testing the model is also very simple. Simply use "lea
 <img src="../images/fastai2.png" width="480" height="130">
 <br>
 ## Conclustion
-The fastai library provides researcher a fast way to use the AI models, aiding researchers focusing on the designing instead of the implementation work. However, this is just a small part of fastai, there are far more functionality which are flexible, easy to use and powerful in fastai waiting to be discovered. It is definately worth exploring and practicing different functionality in fastai!
+The fastai library provides researcher a fast and easy way to use the AI models, aiding researchers focusing on the designing instead of the implementation work. However, this is just a small part of fastai, there are far more functionality which are flexible, easy to use and powerful in fastai waiting to be discovered. It is definately worth exploring and practicing different functionality in fastai!
 
