@@ -10,7 +10,7 @@ Activation function is an essential part of Neural Network. Without the activati
 <img src="/images/nn1.png" width="270" height="150">
 ## Loss Function
 Loss Fucntion is used to measure the difference between the output of the model and the expected result, to reflect how good the model is performing. Accoding to the course, MSE(Mean Squared Error) is the loss funcition that is commonly used. <br> 
-<img src="/images/nn2.png" width="320" height="35">
+<img src="/images/nn2.png" width="500" height="60">
 <br>
 With the loss measured by the loss function, we can do the backpropagation by finding the gradient of the loss, to update the weights and biases inside the layers. This will be done by using the optimizer funciton (Adam Optimizer as an example). There are many choices of loss funcitons, such as MSE, BCD, CrossEntrophy. The choose of loss function should consider the usage of the model. CrossEntrophy loss function is quite common in image classification. The following table shows the choices of loss funciton according to the usage.
 <br> 
