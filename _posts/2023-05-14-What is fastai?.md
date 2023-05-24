@@ -16,9 +16,15 @@ Then, we need to design the loss function and optimizer function. After this, we
 <br>
 Finally, we can do testing on the model. Honestly speaking, althogh the PyTorch procedure is good for understanding the models, and provide the freedom for users customize the models, the procedure of PyTorch is quite complicated, which might not be very friendly to the beginners. And for the experienced researchers, they might spend many time on setting up the model, doing data preparing, and debugging during the process. This is very time consuming. However, let's see how to build a classifier in fastai.<br>
 ## fastiai classifier
-If we build a classifier in fastai, as Jeremy showed in his video, the dataset is prepared by using "dataloader", and the model training is shown as follows:
-<img src="../images/pytorch_example2.png" width="480" height="350"
+If we build a classifier in fastai, as Jeremy showed in his video, the dataset is prepared by using "dataloader", and the model training is shown as follows:<br>
+<img src="../images/fastai1.png" width="480" height="250">
 <br>
-In this 2 lines of code, a CNN model is designed and already starts to training!
-
+In this 2 lines of code, a CNN model is designed and already starts to training!<br>
+And the very cool thing is, the training process is shown in the progress bar, the user can easily see how the training going, with the training loss and validation loss avaliable.<br><br>
+After training the model, testing the model is also very simple. Simply use "learn.predict" function to do the classification, the result will be obtained.<br>
+<br>
+<img src="../images/fastai2.png" width="480" height="130">
+<br>
+## Conclustion
+The fastai library provides researcher a fast way to use the AI models, aiding researchers focusing on the designing instead of the implementation work. However, this is just a small part of fastai, there are far more functionality which are flexible, easy to use and powerful in fastai waiting to be discovered. It is definately worth exploring and practicing different functionality in fastai!
 
