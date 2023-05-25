@@ -2,12 +2,12 @@
 Convolutional Neural Networks (CNN) is a type of Deep Learning model. It is commonly used in Image processing, as it has the ability to capture the feature in spatial dimension form the dataset. So those multi-dimensional data such as images can be processed by CNN. It is considered as a state-of-art model and is widely used in Image processing and computer vision.
 
 ## Structure of CNN
-<img src="/images/CNN1.jpg" width="500" height="250">
+<img src="/images/CNN1.jpg" width="500" height="250"><br>
 The structure of CNN model is shown in the above image. As is shown, the input image is processed by the convolutional filters, which will use convolutional filters to do convolution with input and generate the feature map. The purpose of the convolutional filter is to capture the features such as edges, corners or other image patterns from data. The feature map will then
 be passed into the max-pooling layer. The functionality of convolutional and max-pooling layer is shown in next section.
 <br>
 ## Convolutional layer
-<img src="/images/CNN3.png" width="400" height="200">
+<img src="/images/CNN3.png" width="400" height="200"><br>
 CNN uses a convolutional filter (or named kernel) to operate convolution with the input as a sliding window. This helps the model extracting features and patterns contained in the image. The size of kernel is important to the model, as larger size kernel will extract information globally, small size kernel will extract detailed information from the image.
 
 
